@@ -1,1 +1,9 @@
 c:\users\admin\documents\visual studio 2012\Projects\Ali_ItemDescriptor\Ali_ItemDescriptor\bin\Debug\Ali_ItemDescriptor.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\Ali_ItemDescriptor\Ali_ItemDescriptor\obj\Debug\Ali_ItemDescriptor.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\Ali_ItemDescriptor\Ali_ItemDescriptor\obj\Debug\Ali_ItemDescriptor.Form1.resources
+c:\users\admin\documents\visual studio 2012\Projects\Ali_ItemDescriptor\Ali_ItemDescriptor\obj\Debug\Ali_ItemDescriptor.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\Ali_ItemDescriptor\Ali_ItemDescriptor\obj\Debug\Ali_ItemDescriptor.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\Ali_ItemDescriptor\Ali_ItemDescriptor\bin\Debug\Ali_ItemDescriptor.exe
+c:\users\admin\documents\visual studio 2012\Projects\Ali_ItemDescriptor\Ali_ItemDescriptor\bin\Debug\Ali_ItemDescriptor.pdb
+c:\users\admin\documents\visual studio 2012\Projects\Ali_ItemDescriptor\Ali_ItemDescriptor\obj\Debug\Ali_ItemDescriptor.exe
+c:\users\admin\documents\visual studio 2012\Projects\Ali_ItemDescriptor\Ali_ItemDescriptor\obj\Debug\Ali_ItemDescriptor.pdb

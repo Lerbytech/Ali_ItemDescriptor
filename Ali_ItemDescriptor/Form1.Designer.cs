@@ -89,7 +89,7 @@
       this.BTN_GenDescrition.TabIndex = 5;
       this.BTN_GenDescrition.Text = "Придумать описание";
       this.BTN_GenDescrition.UseVisualStyleBackColor = true;
-      this.BTN_GenDescrition.Click += new System.EventHandler(this.BTN_GenDescrition_Click);
+      this.BTN_GenDescrition.Click += new System.EventHandler(this.BTN_GenDescription_Click);
       // 
       // BTN_DefaultStats
       // 

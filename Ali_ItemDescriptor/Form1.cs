@@ -13,44 +13,60 @@ namespace Ali_ItemDescriptor
   public partial class Form1 : Form
   {
 
-    CItemParameters Item;
+    CItemCard Item;
 
     public Form1()
     {
       InitializeComponent();
     }
 
+    private void Form1_Load(object sender, EventArgs e)
+    {
+      Item = new CItemCard();
+    }
+
+    #region buttons
     private void BTN_DefaultStats_Click(object sender, EventArgs e)
     {
-      
+      Item = CItemGenerator.GetDefaultStats();
+      Fill_ItemStats(CItemGenerator.GetItemStats(Item));
+      Fill_Description(CItemDescriptionGenerator.GetDescription(Item));
     }
 
     private void BTN_GenStats_Click(object sender, EventArgs e)
     {
-
+      Item = CItemGenerator.GenerateStats();
+      Fill_ItemStats(CItemGenerator.GetItemStats(Item));
+      Fill_Description(CItemDescriptionGenerator.GetDescription(Item));
     }
 
-    private void BTN_GenDescrition_Click(object sender, EventArgs e)
+    private void BTN_GenDescription_Click(object sender, EventArgs e)
     {
-
+      Fill_Description(CItemDescriptionGenerator.GetDescription(Item));
     }
 
-    private void Form1_Load(object sender, EventArgs e)
-    {
-      Item = new CItemParameters();
-    }
+    #endregion
 
+
+    #region Fill textboxes on form
 
     private void Fill_ItemStats(List<string> text)
     {
+      TB_ItemStats.Clear();
 
+      foreach (var I in text)
+        TB_ItemStats.AppendText(I);
     }
 
-    private void Fill_Descritption(List<string> text)
+    private void Fill_Description(List<string> text)
     {
+      TB_Description.Clear();
 
-
+      foreach (var I in text)
+        TB_Description.AppendText(I);
     }
+    #endregion
+
 
   }
 }

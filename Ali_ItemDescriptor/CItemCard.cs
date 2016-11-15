@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 namespace Ali_ItemDescriptor
 {
-  public class CItemParameters
+  public class CItemCard
   {
     //  Общие характеристики
     public string Manufacturer;
@@ -110,7 +110,7 @@ namespace Ali_ItemDescriptor
     public int[] Sizes;
     public int Weight;
 
-    public CItemParameters()
+    public CItemCard()
     {
 
     }
