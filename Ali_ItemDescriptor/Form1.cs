@@ -55,7 +55,10 @@ namespace Ali_ItemDescriptor
       TB_ItemStats.Clear();
 
       foreach (var I in text)
+      {
         TB_ItemStats.AppendText(I);
+        TB_ItemStats.AppendText("\n");
+      }
     }
 
     private void Fill_Description(List<string> text)
@@ -63,7 +66,10 @@ namespace Ali_ItemDescriptor
       TB_Description.Clear();
 
       foreach (var I in text)
+      {
         TB_Description.AppendText(I);
+        TB_Description.AppendText("\n");
+      }
     }
     #endregion
 

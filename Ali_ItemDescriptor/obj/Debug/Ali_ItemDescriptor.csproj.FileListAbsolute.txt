@@ -7,3 +7,12 @@ c:\users\admin\documents\visual studio 2012\Projects\Ali_ItemDescriptor\Ali_Item
 c:\users\admin\documents\visual studio 2012\Projects\Ali_ItemDescriptor\Ali_ItemDescriptor\bin\Debug\Ali_ItemDescriptor.pdb
 c:\users\admin\documents\visual studio 2012\Projects\Ali_ItemDescriptor\Ali_ItemDescriptor\obj\Debug\Ali_ItemDescriptor.exe
 c:\users\admin\documents\visual studio 2012\Projects\Ali_ItemDescriptor\Ali_ItemDescriptor\obj\Debug\Ali_ItemDescriptor.pdb
+C:\Users\Админ\Documents\GitHub\Ali_ItemDescriptor\Ali_ItemDescriptor\bin\Debug\Ali_ItemDescriptor.exe.config
+C:\Users\Админ\Documents\GitHub\Ali_ItemDescriptor\Ali_ItemDescriptor\obj\Debug\Ali_ItemDescriptor.exe
+C:\Users\Админ\Documents\GitHub\Ali_ItemDescriptor\Ali_ItemDescriptor\obj\Debug\Ali_ItemDescriptor.pdb
+C:\Users\Админ\Documents\GitHub\Ali_ItemDescriptor\Ali_ItemDescriptor\bin\Debug\Ali_ItemDescriptor.exe
+C:\Users\Админ\Documents\GitHub\Ali_ItemDescriptor\Ali_ItemDescriptor\bin\Debug\Ali_ItemDescriptor.pdb
+C:\Users\Админ\Documents\GitHub\Ali_ItemDescriptor\Ali_ItemDescriptor\obj\Debug\Ali_ItemDescriptor.csprojResolveAssemblyReference.cache
+C:\Users\Админ\Documents\GitHub\Ali_ItemDescriptor\Ali_ItemDescriptor\obj\Debug\Ali_ItemDescriptor.Form1.resources
+C:\Users\Админ\Documents\GitHub\Ali_ItemDescriptor\Ali_ItemDescriptor\obj\Debug\Ali_ItemDescriptor.Properties.Resources.resources
+C:\Users\Админ\Documents\GitHub\Ali_ItemDescriptor\Ali_ItemDescriptor\obj\Debug\Ali_ItemDescriptor.csproj.GenerateResource.Cache

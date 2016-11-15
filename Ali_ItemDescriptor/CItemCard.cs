@@ -102,7 +102,7 @@ namespace Ali_ItemDescriptor
     public string BatteryType;
     public int BatteryCapacity;
     public int HoursWhileTalking;
-    public int HourdsWhileWaiting;
+    public int HoursWhileWaiting;
     public int HoursWhilePlayingVideo;
     public int HoursWhilePlayingAudio;
 
@@ -208,7 +208,7 @@ namespace Ali_ItemDescriptor
       BatteryType = String.Empty;
       BatteryCapacity = 0;
       HoursWhileTalking = 0;
-      HourdsWhileWaiting = 0;
+      HoursWhileWaiting = 0;
       HoursWhilePlayingVideo = 0;
       HoursWhilePlayingAudio = 0;
 
@@ -218,10 +218,5 @@ namespace Ali_ItemDescriptor
       Sizes = new float[3];
       Weight = 0;
     }
-
-
-
-
-
   }
 }
