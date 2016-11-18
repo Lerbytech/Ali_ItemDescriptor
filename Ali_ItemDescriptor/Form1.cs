@@ -23,11 +23,15 @@ namespace Ali_ItemDescriptor
     private void Form1_Load(object sender, EventArgs e)
     {
       Item = new CItemCard();
+ 
     }
 
     #region buttons
     private void BTN_DefaultStats_Click(object sender, EventArgs e)
     {
+      CDescriptionGrabber descr = new CDescriptionGrabber();
+      descr.DoStuff();
+
       Item = CItemGenerator.GetDefaultStats();
       Fill_ItemStats(CItemGenerator.GetItemStats(Item));
       Fill_Description(CItemDescriptionGenerator.GetDescription(Item));

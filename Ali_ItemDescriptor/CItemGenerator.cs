@@ -143,6 +143,8 @@ namespace Ali_ItemDescriptor
     {
       CItemCard Item = new CItemCard();
 
+      Item.Manufacturer = "SAMSUNG";
+      Item.Model = "Galaxy J3";
       Item.BodyType = "смартфон";
       Item.isGSM850 = true;
       Item.isGSM900_1800 = true;
@@ -213,7 +215,7 @@ namespace Ali_ItemDescriptor
       Item.Sizes[2] = 7.9f;
       Item.Weight = 138;
 
-      return new CItemCard();
+      return Item;
     }
   }
 }
